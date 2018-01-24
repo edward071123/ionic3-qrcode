@@ -86,3 +86,9 @@ $colors: (
 
 @import "roboto";
 @import "noto-sans";
+
+
+// App iOS Variables
+// --------------------------------------------------
+// iOS only Sass variables can go here
+$content-ios-transition-background: transparent;
